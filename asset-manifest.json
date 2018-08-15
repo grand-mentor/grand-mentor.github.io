@@ -1,15 +1,13 @@
 {
-  "main.css": "static/css/main.d159e8e5.css",
-  "main.css.map": "static/css/main.d159e8e5.css.map",
-  "main.js": "static/js/main.0d5fc9dc.js",
-  "main.js.map": "static/js/main.0d5fc9dc.js.map",
-  "static/media/background.jpg": "static/media/background.5adec4b2.jpg",
-  "static/media/brand.png": "static/media/brand.f510c892.png",
-  "static/media/logo.png": "static/media/logo.3d82fc07.png",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static/media/products.jpg": "static/media/products.58d55d45.jpg",
+  "main.css": "static/css/main.af43031f.css",
+  "main.css.map": "static/css/main.af43031f.css.map",
+  "main.js": "static/js/main.ecf26ba1.js",
+  "main.js.map": "static/js/main.ecf26ba1.js.map",
+  "static/media/background.jpg": "static/media/background.d8406a6d.jpg",
+  "static/media/logo.png": "static/media/logo.3ed96047.png",
+  "static/media/products.jpeg": "static/media/products.cf58efd4.jpeg",
   "static/media/qanelas-bold.otf": "static/media/qanelas-bold.89995887.otf",
   "static/media/qanelas-light.otf": "static/media/qanelas-light.c80c0a9a.otf",
   "static/media/qanelas-medium.otf": "static/media/qanelas-medium.c9e5d4c5.otf",
-  "static/media/services.jpg": "static/media/services.72e3971e.jpg"
+  "static/media/services.jpeg": "static/media/services.0f00eaff.jpeg"
 }
