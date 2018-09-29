@@ -4,4 +4,4 @@ Grand Mentor is a global company that provides sales partnering and program mana
 
 We are sales professionals at pioneering new business and products to the automotive industry.
 
-Test our website here : https://adithyabhat.com/grand-mentor-llc/
+Checkout our website here : https://grand-mentor.com/
