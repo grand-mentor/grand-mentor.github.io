@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './Home';
 import {BrowserRouter} from 'react-router-dom';
-// import registerServiceWorker from './registerServiceWorker';
+import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
     <BrowserRouter>
@@ -11,4 +11,4 @@ ReactDOM.render(
     </BrowserRouter>
     , document.getElementById('root')
 );
-// registerServiceWorker();
+process.env.NODE_ENV === 'production ' && registerServiceWorker();

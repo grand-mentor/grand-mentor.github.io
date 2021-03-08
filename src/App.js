@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './App.css'
-import 'simplebar'
+
 import About from './assets/services.jpeg'
 import Product from './assets/products.jpeg'
 
